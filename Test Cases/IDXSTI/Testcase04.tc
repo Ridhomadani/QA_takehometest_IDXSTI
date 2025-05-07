@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user add 1 item to cart and do check out</description>
+   <name>Testcase04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3241d32a-1f5f-4afb-9118-a59d29dbb75b</testCaseGuid>
+</TestCaseEntity>
