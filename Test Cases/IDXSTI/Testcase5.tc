@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user doesnt add anytime but do order check out</description>
+   <name>Testcase5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c9c38e9-1875-4f39-9a71-e954f2d68e3e</testCaseGuid>
+</TestCaseEntity>
