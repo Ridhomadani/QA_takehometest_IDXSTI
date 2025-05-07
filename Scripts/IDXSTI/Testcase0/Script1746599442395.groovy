@@ -23,11 +23,9 @@ WebUI.navigateToUrl('https://demoblaze.com/index.html')
 
 WebUI.click(findTestObject('Object Repository/Page_STORE/a_Sign up'))
 
-WebUI.setText(findTestObject('Object Repository/Page_STORE/input_Username_sign-username'), 'testing303030')
+WebUI.setText(findTestObject('Object Repository/Page_STORE/input_Username_sign-username'), 'testing303032')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_STORE/input_Password_sign-password'), 'cavZ8PAcR4POM0onSufk6g==')
-
-WebUI.setText(findTestObject('Object Repository/Page_STORE/input_Username_sign-username'), 'testing303030')
 
 WebUI.click(findTestObject('Object Repository/Page_STORE/button_Sign up'))
 

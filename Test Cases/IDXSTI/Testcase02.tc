@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>user add 1 item to cart and do check out</description>
+   <description>user add another item to cart and do check out</description>
    <name>Testcase02</name>
    <tag></tag>
    <comment></comment>
