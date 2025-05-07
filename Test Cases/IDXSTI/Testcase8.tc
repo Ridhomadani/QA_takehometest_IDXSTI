@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user use about us feature</description>
+   <name>Testcase8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec9a960e-6098-4c5d-b54f-a251ad6a7956</testCaseGuid>
+</TestCaseEntity>

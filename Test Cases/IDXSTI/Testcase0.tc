@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>SignUp_Login_Logout</name>
+   <description>User sign up, login, then logout</description>
+   <name>Testcase0</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

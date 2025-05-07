@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>User add other item to cart and do check out</description>
-   <name>Testcase1</name>
+   <name>Testcase021</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
